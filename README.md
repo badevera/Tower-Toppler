@@ -1,2 +1,2 @@
 # Tower-Toppler
-CPSC 4100 Class Project
+CPSC 4270 Class Project
